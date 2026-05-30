@@ -127,8 +127,8 @@ The port targets the following milestones:
 | Name | GitHub 
 |---|---|
 | Rishi Patil | `@Rispats` 
-| Nikhil Karmali | `@KevinAlex-08` 
-| Kevin Alex Daniel| `@karmalinikhil` 
+| Nikhil Karmali | `@karmalinikhil` 
+| Kevin Alex Daniel| `@KevinAlex-08` 
 | Krishay Naik | `@krish4yy` 
 
 > The initial idea for this project was inspired by [OpenFC2040](https://github.com/vxj9800/openFC2040). 
