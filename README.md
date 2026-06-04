@@ -94,9 +94,9 @@ The port targets the following milestones:
 
 | Milestone | Status |
 |---|---|
-| NuttX kernel boot on RP2350A | In Progress |
-| PIO UART for Telemetry and GPS | In porgress |
-| uORB messaging and Sensors/Peripherals working validation | In Progress |
+| NuttX kernel boot on RP2350A | Done 🟢 |
+| PIO UART for Telemetry and GPS | Done 🟢|
+| uORB messaging and Sensors/Peripherals working validation | Pico side works, STM in progress 🟠 |
 | EKF2 with M33 FPU acceleration |  In Progress |
 | PX4IO protocol over UART0 |  In Progress |
 | SD logging (ULog / pyulog) |  In Progress |
