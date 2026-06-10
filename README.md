@@ -96,12 +96,12 @@ The port targets the following milestones:
 |---|---|
 | NuttX kernel boot on RP2350A | Done 🟢 |
 | PIO UART for Telemetry and GPS | Done 🟢|
-| uORB messaging and Sensors/Peripherals working validation | Pico side works, STM in progress 🟠 |
-| EKF2 with M33 FPU acceleration |  In Progress |
-| PX4IO protocol over UART0 |  In Progress |
-| SD logging (ULog / pyulog) |  In Progress |
-| Full quadcopter flight test | In Porgress |
-| SMP (dual-core) NuttX config |Planned|
+| uORB messaging and Sensors/Peripherals working validation | Pico side validated, STM in progress 🟠 |
+| EKF2 with M33 FPU acceleration |  Done 🟢 |
+| PX4IO protocol over UART0 |  Done 🟢 |
+| SD logging (ULog / pyulog) |  🟠 In Progress |
+| Full quadcopter flight test | 🟠 In Progress |
+| SMP (dual-core) NuttX config | 🔴 Planned|
 
 ### Key Subsystems
 
